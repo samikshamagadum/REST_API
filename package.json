@@ -1,0 +1,22 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "A simple REST API with Node.js and Express for managing notes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "express",
+    "notes"
+  ],
+  "author": "Samiksha Magdum",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
